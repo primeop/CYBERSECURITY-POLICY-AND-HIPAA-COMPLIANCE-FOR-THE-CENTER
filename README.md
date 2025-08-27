@@ -63,15 +63,6 @@ This project provides a **comprehensive cybersecurity policy and HIPAA complianc
 ## 📂 Repository Contents  
 - `DSCI-519-Fall2024-Semester-Project.pdf` – Full project report  
 - `README.md` – Project overview (this file)  
-
----
-
-## 🏷️ Badges  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
-![Framework](https://img.shields.io/badge/Framework-NIST%20800--66-blue)  
-![Compliance](https://img.shields.io/badge/Compliance-HIPAA-orange)  
-![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow)  
-
 ---
 
 ✅ This project demonstrates how to apply **policy, compliance, and security frameworks** to a real-world healthcare setting, bridging **technical implementation** with **regulatory compliance**.  
