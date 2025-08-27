@@ -1,5 +1,3 @@
-# CYBERSECURITY-POLICY-AND-HIPAA-COMPLIANCE-FOR-THE-CENTER
-
 # Cybersecurity Policy and HIPAA Compliance for Healthcare  
 
 📄 **Course:** DSCI 519 – Foundations and Policy for Information Security  
