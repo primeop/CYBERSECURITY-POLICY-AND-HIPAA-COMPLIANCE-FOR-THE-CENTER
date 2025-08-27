@@ -12,6 +12,11 @@ This project provides a **comprehensive cybersecurity policy and HIPAA complianc
 
 ---
 
+## 🏗️ DevSecOps CI/CD Architecture
+
+  ![DEvSecOps Architecture](hipaa.png)
+---
+
 ## 🧭 Objectives  
 - Review and compare existing healthcare security policies with **NIST SP 800-66** and **HIPAA requirements**.  
 - Conduct a **threat assessment** covering insider, external, and systemic risks.  
