@@ -50,7 +50,7 @@ This project provides a **comprehensive cybersecurity policy and HIPAA complianc
 
 ## 🛠️ Tools & Frameworks Used  
 - **Standards & Frameworks:** NIST SP 800-66, HIPAA Security Rule  
-- **Cloud Services:** AWS (HIPAA-compliant storage, Glacier, CloudTrail, GuardDuty)  
+- **Cloud Services:** Microsoft Azure (HIPAA-compliant storage, Azure Policy, Sentinel, Key Vault, Security Center)
 - **Security Models:** DAC, MAC, RBAC  
 - **Controls:** Encryption (AES, TLS), IAM, SIEM, DLP, EDR  
 
