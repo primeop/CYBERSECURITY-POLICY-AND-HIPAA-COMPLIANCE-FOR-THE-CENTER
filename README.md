@@ -12,9 +12,7 @@ This project provides a **comprehensive cybersecurity policy and HIPAA complianc
 
 ---
 
-## 🏗️ DevSecOps CI/CD Architecture
-
-  ![DEvSecOps Architecture](hipaa.png)
+  ![Hipaa](hipaa.png)
 ---
 
 ## 🧭 Objectives  
